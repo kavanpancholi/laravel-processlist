@@ -1,0 +1,12 @@
+{
+    "name": "kavanpancholi/processlist",
+    "description": "A platform-independent way to retrieve the list of processes running on your systems. It works both on the Windows and Unix platforms.",
+    "authors": [
+        {
+            "name": "Kavan Pancholi",
+            "email": "kavanpancholi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
