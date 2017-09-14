@@ -27,3 +27,4 @@ Check for process in handler
         }
         echo "This process is already running".PHP_EOL;
     }
+
